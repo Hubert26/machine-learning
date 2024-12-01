@@ -78,3 +78,6 @@ The steps followed in this project showcase the practical application of data sc
 - **Machine Learning Algorithms**: KNN, Logistic Regression, Random Forest, Gradient Boosting, SVM
 - **Dimensionality Reduction**: Principal Component Analysis (PCA)
 - **Evaluation Metric**: AUROC Score
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Hubert26/machine-learning/blob/main/LICENSE.txt) file for details.
